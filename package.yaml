@@ -1,0 +1,11 @@
+---
+id: themes/unc_theme
+description: This package is here to save the world. What do you say to something like
+that?
+license: commercial
+version: 1.0.0
+require:
+    kurogo/kurogo-core: '2.0.*'
+package: []  # packages can directly reference other packages to install a package
+bundle
+...
