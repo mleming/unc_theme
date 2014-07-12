@@ -4,5 +4,5 @@ description: Stack Overflow Module
 license: commercial
 version: 2.0.0
 require:
-    kurogo/kurogo-core: '2.0.*'
+    kurogo/kurogo-core: '2.*.*'
 ...
