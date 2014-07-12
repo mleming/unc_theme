@@ -1,8 +1,6 @@
 ---
-id: modolabs/modo_stackoverflow
-description: Stack Overflow Module
+id: unc/unc_theme
+description: UNC theme
 license: commercial
-version: 2.0.0
-require:
-    kurogo/kurogo-core: '2.*.*'
+version: 1.0.0
 ...
