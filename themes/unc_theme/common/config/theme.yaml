@@ -4,7 +4,7 @@ common:
     navmenu_show_icons: true                 # Whether or not to show icons in the side navigation menu.  May degrade performance.
     navmenu_icon_set: mono-white             # If navmenu_show_icons is true, which iconset to use for module icons.
 
-    portlet_icon_set: BluFill       # Iconset to use in the title of portlets when using iconset images for the titleImage
+    portlet_icon_set: BlueFill       # Iconset to use in the title of portlets when using iconset images for the titleImage
 
     primary_font_family: Helvetica Neue, Helvetica, Arial, sans-serif  # Font family for most of the text in the app
     primary_font_weight: normal              # Font weight for most of the text in the app
