@@ -1,6 +1,6 @@
 ---
 common:
-    title_icon_set: BluSqrBottomFill         # Iconset to use for module icons displayed in top navbar.
+    title_icon_set: mono-white         # Iconset to use for module icons displayed in top navbar.
     navmenu_show_icons: true                 # Whether or not to show icons in the side navigation menu.  May degrade performance.
     navmenu_icon_set: mono-white             # If navmenu_show_icons is true, which iconset to use for module icons.
 
@@ -10,9 +10,9 @@ common:
     primary_font_weight: normal              # Font weight for most of the text in the app
     primary_font_style: normal               # Font style for most of the text in the app
     base_font_size: 16px                     # Base font size. Almost all of the other font sizes throughout your web app will be calculated as percentages of this base font size. Should be in px.
-    primary_text_color: '#404040'            # Primary text color for most text and navigation elements throughout app
-    secondary_text_color: '#808080'          # Text color for smallprint, fineprint, legends, labels, nonselected tabs, and text in secondary nav lists
-    tertiary_text_color: '#999999'           # Text color for secondary nav list smallprint
+    primary_text_color: '#ffffff'            # Primary text color for most text and navigation elements throughout app
+    secondary_text_color: '#ffffff'          # Text color for smallprint, fineprint, legends, labels, nonselected tabs, and text in secondary nav lists
+    tertiary_text_color: '#ffffff'           # Text color for secondary nav list smallprint
 
     primary_heading_font_family: 'Georgia, serif'  # Font family for <h1> elements, including content item titles (leave null to use primary_font_family)
     primary_heading_font_size: 1.5rem        # Font size for <h1> elements. Should be in rem.
