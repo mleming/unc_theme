@@ -41,9 +41,9 @@ common:
     focal_link_active_color: '#003366'       # Active color
     link_text_decoration: none               # Text decoration for links embedded within body content, including web content. Acceptable values: "none", "underline" (empty value uses browser's default link decoration, which is generally underline)
 
-    nonfocal_text_color: '#404040'           # Text and link text that appear on the body background, e.g., within nonfocal elements
-    nonfocal_secondary_text_color: '#808080' # Secondary text and link text that appear on the body background, e.g., within nonfocal elements
-    nonfocal_heading_color: '#333333'        # Color for all <h1>, <h2>, <h3>, and <h4> elements that appear on the body background, e.g., within nonfocal elements
+    nonfocal_text_color: '#ffffff'           # Text and link text that appear on the body background, e.g., within nonfocal elements
+    nonfocal_secondary_text_color: '#ffffff' # Secondary text and link text that appear on the body background, e.g., within nonfocal elements
+    nonfocal_heading_color: '#ffffff'        # Color for all <h1>, <h2>, <h3>, and <h4> elements that appear on the body background, e.g., within nonfocal elements
     nonfocal_link_color: '#3366cc'           # Color of text links that appear on the body background, e.g., within nonfocal elements
     nonfocal_link_hover_color: '#3399ff'     # Hover color of text links that appear on the body background, e.g., within nonfocal elements (only applies to desktops and cursor-driven mobile devices)
     nonfocal_link_active_color: '#003366'     # Active color of text links that appear on the body background, e.g., within nonfocal elements
