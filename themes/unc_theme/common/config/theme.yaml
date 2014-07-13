@@ -4,7 +4,7 @@ common:
     navmenu_show_icons: true                 # Whether or not to show icons in the side navigation menu.  May degrade performance.
     navmenu_icon_set: mono-white             # If navmenu_show_icons is true, which iconset to use for module icons.
 
-    portlet_icon_set: BluSqrBottomFill       # Iconset to use in the title of portlets when using iconset images for the titleImage
+    portlet_icon_set: BluFill       # Iconset to use in the title of portlets when using iconset images for the titleImage
 
     primary_font_family: Helvetica Neue, Helvetica, Arial, sans-serif  # Font family for most of the text in the app
     primary_font_weight: normal              # Font weight for most of the text in the app
@@ -41,9 +41,9 @@ common:
     focal_link_active_color: '#003366'       # Active color
     link_text_decoration: none               # Text decoration for links embedded within body content, including web content. Acceptable values: "none", "underline" (empty value uses browser's default link decoration, which is generally underline)
 
-    nonfocal_text_color: '#ffffff'           # Text and link text that appear on the body background, e.g., within nonfocal elements
-    nonfocal_secondary_text_color: '#ffffff' # Secondary text and link text that appear on the body background, e.g., within nonfocal elements
-    nonfocal_heading_color: '#ffffff'        # Color for all <h1>, <h2>, <h3>, and <h4> elements that appear on the body background, e.g., within nonfocal elements
+    nonfocal_text_color: '#404040'           # Text and link text that appear on the body background, e.g., within nonfocal elements
+    nonfocal_secondary_text_color: '#808080' # Secondary text and link text that appear on the body background, e.g., within nonfocal elements
+    nonfocal_heading_color: '#333333'        # Color for all <h1>, <h2>, <h3>, and <h4> elements that appear on the body background, e.g., within nonfocal elements
     nonfocal_link_color: '#3366cc'           # Color of text links that appear on the body background, e.g., within nonfocal elements
     nonfocal_link_hover_color: '#3399ff'     # Hover color of text links that appear on the body background, e.g., within nonfocal elements (only applies to desktops and cursor-driven mobile devices)
     nonfocal_link_active_color: '#003366'     # Active color of text links that appear on the body background, e.g., within nonfocal elements
@@ -61,13 +61,13 @@ common:
     navmenu_background_image: none           # Optional# use "none" if no image is required, or CSS format e.g., "url(kgo_image(navmenu-back.jpg))"
     navmenu_text_color: '#dddddd'            # Color of non-link text and section headings in nav menu
     navmenu_list_background_color: '#56A0D3' # Background color of actual navigation list(s) within nav menu (does not apply to Android native)
-    navmenu_link_color: '#dddddd'            # Color of text links (module names) within navigation lists in nav menu
+    navmenu_link_color: '#ffffff'            # Color of text links (module names) within navigation lists in nav menu
     navmenu_link_selected_color: '#ffffff'   # Color of selected module name in nav menu
     navmenu_link_hover_color: '#ffffff'      # Hover (mouseover) color of text links (module names) in nav menu
     navmenu_link_active_color: '#ffffff'     # Active (mousedown) color of text links (module names) in nav menu
-    navmenu_border_color: '#363636'          # Color of divider line between rows in nav menu
+    navmenu_border_color: '#ffffff'          # Color of divider line between rows in nav menu
     navmenu_footer_height: 120px             # The height of the footer.  Make sure to test with the largest font size when determining this value.
-    navmenu_footer_text_color: '#808080'     # Color of text and text links in site footer at bottom of navmenu
+    navmenu_footer_text_color: '#ffffff'     # Color of text and text links in site footer at bottom of navmenu
 
     highlight_background_color: '#007eff'    # Highlight color for pressed state of list items. Does not apply to Android native.
     highlight_text_color: '#ffffff'          # Text color for highlighted/pressed state of list items. Does not apply to Android native.
