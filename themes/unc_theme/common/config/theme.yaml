@@ -84,7 +84,7 @@ common:
     list_section_heading_text_color: '#ffffff'      # Text color for section headings in sectioned lists
 
     # KGOUIFormSearch, KGOUISearch*
-    search_button_background_color: null     # Background color for search buttons. Applies to web only. Set to null to default to focal_link_color.
+    search_button_background_color: '#56a0d3'     # Background color for search buttons. Applies to web only. Set to null to default to focal_link_color.
     search_button_text_color: '#ffffff'      # Color of text and search icon within search buttons. Must have strong contrast with search_button_background_color.
 
     # KGOUIToolbar
