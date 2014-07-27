@@ -12,15 +12,15 @@ common:
     home_hero_image_alignment: center
 
     # This section only applies when this module is configured as springboard-style layout
-    content_navigation_grid_icon_set: BluSqrBottomFill
+    content_navigation_grid_icon_set: BlueSqr
     content_navigation_grid_icon_size: "120"
-    content_navigation_grid_utility_icon_set: BluSqrBottomFill
+    content_navigation_grid_utility_icon_set: BlueSqr
     content_navigation_grid_utility_icon_size: "60"
 
     # This section only applies when this module is configured as list-style layout
-    content_navigation_list_icon_set: BluSqrBottomFill
+    content_navigation_list_icon_set: BlueFill
     content_navigation_list_icon_size: "120"
-    content_navigation_list_utility_icon_set: BluSqrBottomFill
+    content_navigation_list_utility_icon_set: BlueFill
     content_navigation_list_utility_icon_size: "60"
 
     styles:
