@@ -53,9 +53,9 @@ common:
 
     focal_border_color: '#c9c9c9'            # Color of borders around focal content areas and navigation and results lists, and between list items
 
-    navbar_background_color: '#202020'       # Background color behind navbar. Also serves as tint color for system-drawn buttons on the UINavigationBar in iOS6 native.
+    navbar_background_color: '#56A0D3'       # Background color behind navbar. Also serves as tint color for system-drawn buttons on the UINavigationBar in iOS6 native.
     navbar_text_color: '#ffffff'             # Color of navigation-bar text (page title, button labels, etc.)
-    navbar_border_color: '#202020'
+    navbar_border_color: '#78B3DC'
 
     navmenu_background_color: '#202020'      # Background color for navigation menu
     navmenu_background_image: none           # Optional# use "none" if no image is required, or CSS format e.g., "url(kgo_image(navmenu-back.jpg))"
@@ -65,7 +65,7 @@ common:
     navmenu_link_selected_color: '#ffffff'   # Color of selected module name in nav menu
     navmenu_link_hover_color: '#ffffff'      # Hover (mouseover) color of text links (module names) in nav menu
     navmenu_link_active_color: '#ffffff'     # Active (mousedown) color of text links (module names) in nav menu
-    navmenu_border_color: '#93c2e3'          # Color of divider line between rows in nav menu
+    navmenu_border_color: '#202020'          # Color of divider line between rows in nav menu
     navmenu_footer_height: 120px             # The height of the footer.  Make sure to test with the largest font size when determining this value.
     navmenu_footer_text_color: '#ffffff'     # Color of text and text links in site footer at bottom of navmenu
 
