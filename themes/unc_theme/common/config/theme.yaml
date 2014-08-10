@@ -65,7 +65,7 @@ common:
     navmenu_link_selected_color: '#ffffff'   # Color of selected module name in nav menu
     navmenu_link_hover_color: '#ffffff'      # Hover (mouseover) color of text links (module names) in nav menu
     navmenu_link_active_color: '#ffffff'     # Active (mousedown) color of text links (module names) in nav menu
-    navmenu_border_color: '#202020'          # Color of divider line between rows in nav menu
+    navmenu_border_color: '#363636'          # Color of divider line between rows in nav menu
     navmenu_footer_height: 120px             # The height of the footer.  Make sure to test with the largest font size when determining this value.
     navmenu_footer_text_color: '#ffffff'     # Color of text and text links in site footer at bottom of navmenu
 
