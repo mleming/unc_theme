@@ -1,8 +1,8 @@
 ---
 common:
-    title_icon_set: mono-white         # Iconset to use for module icons displayed in top navbar.
+    title_icon_set: mono-white-extras         # Iconset to use for module icons displayed in top navbar.
     navmenu_show_icons: true                 # Whether or not to show icons in the side navigation menu.  May degrade performance.
-    navmenu_icon_set: mono-white             # If navmenu_show_icons is true, which iconset to use for module icons.
+    navmenu_icon_set: mono-white-extras             # If navmenu_show_icons is true, which iconset to use for module icons.
 
     portlet_icon_set: BlueFill       # Iconset to use in the title of portlets when using iconset images for the titleImage
 
